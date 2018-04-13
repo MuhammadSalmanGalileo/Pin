@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Pin	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+changePin   KEYWORD2
+pinMode KEYWORD2
+digitalWrite    KEYWORD2
+digitalRead KEYWORD2
+digitalWriteToggle  KEYWORD2
+isRisingEdge    KEYWORD2
+isFallingEdge   KEYWORD2
+isEdge  KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
